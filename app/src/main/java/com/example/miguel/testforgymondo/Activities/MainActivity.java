@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
 /*
 * Here all methods calling the Rest API
 *
- */
+*/
     private void getExercises() {
         Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl(Api.URL)

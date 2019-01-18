@@ -10,12 +10,6 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
-
-import com.example.miguel.testforgymondo.Objects.Category;
-import com.example.miguel.testforgymondo.Objects.Equipment;
-import com.example.miguel.testforgymondo.Objects.Exercise;
-import com.example.miguel.testforgymondo.Objects.ExerciseImage;
-import com.example.miguel.testforgymondo.Objects.Muscle;
 import com.example.miguel.testforgymondo.R;
 
 import java.io.InputStream;
